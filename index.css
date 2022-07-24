@@ -59,6 +59,21 @@ input[type="text"], textarea {
     font-size:9px;
     padding:0 2px;
 }
+#p5 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #32CD32 !important;
+    line-height:0.37 !important;
+    font-size:15.5px !important;
+    padding:0 2px;
+}
 
 #grid-overlay {
     position: relative;
